@@ -40,7 +40,7 @@
 <manifest>
 <addClasspath>true</addClasspath>
 <!--  REPLACE WITH YOUR MAIN CLASS (e.g., com.example.Main)  -->
-<mainClass>com.example.Main</mainClass>
+<mainClass>com.example.Fibonacci</mainClass>
 </manifest>
 </archive>
 </configuration>
